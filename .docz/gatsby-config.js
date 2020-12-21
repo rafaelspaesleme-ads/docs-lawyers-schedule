@@ -19,7 +19,7 @@ const config = {
   pathPrefix: '/',
 
   siteMetadata: {
-    title: 'Documentação Oficial do Projeto Lawyers Schedule',
+    title: 'Docz Example Basic',
     description: 'My awesome app using docz',
   },
   plugins: [
@@ -58,7 +58,7 @@ const config = {
         eb: 'master',
         'edit-branch': 'master',
         config: '',
-        title: 'Documentação Oficial do Projeto Lawyers Schedule',
+        title: 'Docz Example Basic',
         description: 'My awesome app using docz',
         host: 'localhost',
         port: 3000,

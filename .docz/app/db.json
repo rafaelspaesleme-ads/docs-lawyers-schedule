@@ -88,6 +88,21 @@
             "slug": "frontend",
             "depth": 2,
             "value": "Frontend"
+          },
+          {
+            "slug": "backend",
+            "depth": 2,
+            "value": "Backend"
+          },
+          {
+            "slug": "database",
+            "depth": 2,
+            "value": "Database"
+          },
+          {
+            "slug": "devops",
+            "depth": 2,
+            "value": "DevOps"
           }
         ]
       }
